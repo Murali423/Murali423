@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-#<img>img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207 />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murali423&label=Profile%20views&color=0e75b6&style=flat" alt="murali423" /> </p>
 
