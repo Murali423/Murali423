@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murali423" alt="murali423" /></a> </p>
 
-- 🔭 I’m currently working on **Lang chain**
+- 🔭 I’m currently working on **Lang chain, lammaindex and Generative AI**
 
-- 🌱 I’m currently learning **Langchain,openai, Hugginface**
+- 🌱 I’m currently learning **Langchain,openai, Hugginface,LLM**
 
 - 👯 I’m looking to collaborate on **Data science**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [AI](AI)
 
-- 💬 Ask me about **ML,DL and NLP**
+- 💬 Ask me about **ML,DL and NLP GenAI**
 
 - 📫 How to reach me **1murali5teja@gmail.com**
 
